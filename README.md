@@ -5,6 +5,6 @@ SER517 Software Factory
 * Saurabh Prakash (spraka10@asu.edu)
 * Supriya Iyer(siyer12@asu.edu)
 * Mitali Kulkarni(mskulka4@asu.edu)
-* Binbin yan(byan7@asu.edu)
+* Binbin yan(byan17@asu.edu)
 * Pratik Bartakke(pbartakk@asu.edu)
 * Abhinab Mohanty(amohant7@asu.edu)
