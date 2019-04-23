@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Object2VR project file  -->
+<object2vrconfig>
+  <object>
+    <input>
+      <images>
+        <image>
+          <orderid>0,0,0,0</orderid>
+          <filename>3Dimage.png</filename>
+        </image>
+      </images>
+      <columns>1</columns>
+      <rows>1</rows>
+      <states>1</states>
+      <animations>1</animations>
+      <type>images</type>
+      <sequencepattern>'image_'+ (row) + '_' + (column) + '.jpg'</sequencepattern>
+    </input>
+    <userdata/>
+    <control>
+      <startcolumn>0</startcolumn>
+      <startrow>0</startrow>
+      <startstate>0</startstate>
+      <type>grabber</type>
+      <wraphorizontal>0</wraphorizontal>
+      <wrapvertical>0</wrapvertical>
+      <reversehorizontal>0</reversehorizontal>
+      <reversevertical>0</reversevertical>
+      <swapverticalhorizontal>0</swapverticalhorizontal>
+    </control>
+    <output>
+      <htmlcss>
+        <htmlcss>
+          <filename>Dickinsonia1.html</filename>
+          <enabled>1</enabled>
+          <template>normal.ggt</template>
+          <values>
+            <value id="bgcolor">#ffffff</value>
+            <value id="fullscreen">false</value>
+            <value id="manifest">false</value>
+            <value id="showuserdata">false</value>
+            <value id="swf">Dickinsonia1.swf</value>
+            <value id="tablebgcolor">#dddddd</value>
+            <value id="tablebordercolor">#777777</value>
+            <value id="tabletextcolor">#000000</value>
+            <value id="textcolor">#000000</value>
+          </values>
+        </htmlcss>
+        <hotspottext>
+          <enabled>1</enabled>
+          <width>180</width>
+          <height>20</height>
+          <auto>0</auto>
+          <textcolor>#000000</textcolor>
+          <textwrap>1</textwrap>
+          <background>1</background>
+          <backgroundcolor>#ffffff</backgroundcolor>
+          <border>1</border>
+          <bordercolor>#000000</bordercolor>
+          <borderradius>1</borderradius>
+        </hotspottext>
+        <filename>med1.xml</filename>
+        <windowwidth>420</windowwidth>
+        <windowheight>265</windowheight>
+        <tilewidth>0</tilewidth>
+        <tilewidthauto>1</tilewidthauto>
+        <imageformat>1</imageformat>
+        <quality>90</quality>
+        <keepwindowaspectratio>0</keepwindowaspectratio>
+        <background>1</background>
+        <backgroundcolor>#ffffff</backgroundcolor>
+        <imagescaling>min</imagescaling>
+        <allowzoom>1</allowzoom>
+        <zoomdefault>1</zoomdefault>
+        <zoommax>5</zoommax>
+        <centerx>0</centerx>
+        <centery>0</centery>
+        <automovemode>1</automovemode>
+        <autoplay>off</autoplay>
+        <autoplayspeed>1</autoplayspeed>
+        <autoplaydelay>5</autoplaydelay>
+        <skinfile>vftObjectSolarSpellNoR.ggsk</skinfile>
+        <skinimagepath>images</skinimagepath>
+        <sensitivity>10</sensitivity>
+        <mouselocked>0</mouselocked>
+        <dblclickfullscreen>0</dblclickfullscreen>
+        <wheellocked>0</wheellocked>
+        <invertwheel>0</invertwheel>
+        <speedwheel>1</speedwheel>
+        <keyboardlocked>0</keyboardlocked>
+        <html>
+          <filename>$n.html</filename>
+          <enabled>1</enabled>
+          <template>normal.ggt</template>
+          <values>
+            <value id="bgcolor">#ffffff</value>
+            <value id="fullscreen">false</value>
+            <value id="jsxml">false</value>
+            <value id="manifest">false</value>
+            <value id="showuserdata">false</value>
+            <value id="swf"></value>
+            <value id="swffirst">false</value>
+            <value id="swfgeneric">false</value>
+            <value id="tablebgcolor">#dddddd</value>
+            <value id="tablebordercolor">#777777</value>
+            <value id="tabletextcolor">#000000</value>
+            <value id="textcolor">#000000</value>
+          </values>
+        </html>
+        <imagepath>images</imagepath>
+        <hotspotstyle>
+          <viewmode>hidden</viewmode>
+          <backgroundcolor>#0000ff,64</backgroundcolor>
+          <bordercolor>#0000ff</bordercolor>
+        </hotspotstyle>
+        <preloadimages>1</preloadimages>
+        <skinSvgToPng>0</skinSvgToPng>
+        <masssimulation>1</masssimulation>
+        <lockedwheel>0</lockedwheel>
+        <leveltileenabled>0</leveltileenabled>
+        <leveltilesize>512</leveltilesize>
+        <leveltilefilename>tiles/c%c_l%r_%y_%x.jpg</leveltilefilename>
+        <leveltilegeneratefiles>1</leveltilegeneratefiles>
+        <leveltileoverlap>1</leveltileoverlap>
+      </htmlcss>
+    </output>
+    <basepath>.</basepath>
+    <hotspots/>
+    <filename/>
+    <imageprocessing>
+      <crop/>
+      <levels/>
+      <sharpen/>
+      <masks/>
+      <transform/>
+    </imageprocessing>
+  </object>
+</object2vrconfig>

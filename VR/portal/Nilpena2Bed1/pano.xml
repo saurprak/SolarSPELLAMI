@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="5.1 beta2" apprev="15706" start="node1">
+  <panorama hideabout="1" id="node1">
+    <input leveltileurl="tiles/NilpenaStart/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelingpitch="0" width="1500" height="1500" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="322.5" fovmode="0">
+      <start projection="4" fov="67.6" pan="-47.01" tilt="-4.25"/>
+      <flyin projection="4" fov="170" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="2015:12:03 15:16:05" comment="" customnodeid="" copyright="" title="" tags="nilpena" info="" description="" author="" latitude="" longitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" background="1" enabled="1" borderalpha="1" border="1" width="180" height="20" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1"/>
+      <hotspot url="" id="Point01" title="" target="_blank" pan="131.26" tilt="-9.61" skinid="hsPOIt" description="Today in South Australia, Nilpena is located in a hot and dry climate that is very different to what it was like in the geologic past. The rocks at Nilpena tell us that around 550 million years ago a shallow tropical ocean covered this area. "/>
+      <hotspot url="" id="Point02" title="" target="_blank" pan="-98.67" tilt="-12.59" skinid="hsPOIt" description="The rock at Nilpena is called sandstone and is made of tiny sand grains that were deposited in an ancient ocean. The sand built up on the ocean floor over time and formed thick layers of sediment (sand). Over millions of years, the sand was buried, compressed and cemented to form sandstone rock."/>
+      <hotspot url="" id="text_icon" title="" target="_blank" pan="-8.59" tilt="-14.25" skinid="hsPOIt" description="Notice the wavy surface of the sandstone. To form this type of surface, waves and currents moved sand to form ripples (highs and lows on the surface) on the seafloor. The ripples were preserved in the rock and are now called ripple marks. The presence of ripples tells us that this was a shallow water environment with waves and currents moving the sand. "/>
+      <hotspot url="media/Phoebe7why.mp4" id="Point04" title="WHY" target="" pan="-157.75" tilt="-16.37" skinid="ht_video_file" description=""/>
+      <hotspot url="media/NiplenaBeds.mp4" id="Point05" title="HOW" target="" pan="-37.78" tilt="-1.15" skinid="ht_video_file" description=""/>
+      <hotspot url="media/dic.mp4" id="Point06" title="dic" target="" pan="-71.12" tilt="-17.9" skinid="htObjects" description="&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;media/objects/dickinsoniaV3/dickinsonia1.html&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;>&lt;/iframe>"/>
+      <hotspot url="{node2}" id="Point07" title="" target="0/0/70" pan="91.64" tilt="2.87" skinid="ht_node_Parv" description=""/>
+      <hotspot url="" id="Point08" title="" target="_blank" pan="88.35" tilt="-9.31" skinid="htScientist" description="Dr. Roger Summons&lt;br>&#xa;Really cool scientist guy&lt;br>&#xa;from MIT"/>
+      <hotspot url="{node5}" id="Point03" title="" target="-1.63035/-10.0272/70" pan="102" tilt="-30.95" skinid="ht_node_Underwater" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" type="crossdissolve" zoomout="0" enabled="0" softedge="0" blendtime="1" zoomoutpause="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" contextfullscreen="1" sensitivity="8" simulatemass="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input leveltileurl="tiles/AnieditedV2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelingpitch="0" width="998" height="998" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="998" height="998"/>
+      <level preload="1" predecode="1" width="499" height="499"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="2016:01:08 16:13:03" comment="" customnodeid="" copyright="" title="" tags="nilpena" info="" description="" author="" latitude="" longitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" background="1" enabled="1" borderalpha="1" border="1" width="180" height="20" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1"/>
+      <hotspot url="media/dic.mp4" id="Point03" title="dic" target="" pan="146.34" tilt="-24.8" skinid="htObjects" description="&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;media/objects/dickinsoniaV3/dickinsonia1.html&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;>&lt;/iframe>"/>
+      <hotspot url="media/eoa.mp4" id="Point01" title="eoa" target="" pan="72.27" tilt="-28.77" skinid="htObjects" description="&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;media/objects/eoandrV3/eoand1.html&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;>&lt;/iframe>"/>
+      <hotspot url="media/parv.mp4" id="Point02" title="par" target="" pan="-173.62" tilt="-30.59" skinid="htObjects" description="&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;media/objects/parvancorinaV3/parvancorina1.html&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;>&lt;/iframe>"/>
+      <hotspot url="media/asp.mp4" id="Point04" title="asp" target="" pan="-158.14" tilt="-16.83" skinid="htObjects" description="&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;media/objects/aspidellaV3/aspidella1.html&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;>&lt;/iframe>"/>
+      <hotspot url="media/med.mp4" id="Point05" title="med" target="" pan="46.5" tilt="-4" skinid="htObjects" description="&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;media/objects/medusoidV3/medusoid.html&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;>&lt;/iframe>"/>
+      <hotspot url="media/tri.mp4" id="Point06" title="tri" target="" pan="5.65" tilt="-31.14" skinid="htObjects" description="&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;media/objects/tribrachidiumV3/tribrachidium1.html&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;>&lt;/iframe>"/>
+      <hotspot url="" id="Point07" title="" target="_blank" pan="112.62" tilt="-1.33" skinid="hsPOIt" description="Some fossils at Nilpena appear to be shaped like modern day jellyfish. They had a disc- or bell-like body with tentacles around the edges. Scientists think that they floated in the ocean and used their tentacles to catch food particles. "/>
+      <hotspot url="{node1}" id="Point09" title="" target="-47.01/-4.25/67.6" pan="177.1" tilt="19.91" skinid="ht_node_MainBed" description=""/>
+      <hotspot url="media/spr.mp4" id="Point10" title="spr" target="" pan="64.53" tilt="-50.61" skinid="htObjects" description="&lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;media/objects/sprigginaV3/spriggina1.html&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;>&lt;/iframe>"/>
+      <hotspot url="" id="Point11" title="" target="_blank" pan="10.78" tilt="-6.79" skinid="hsPOIt" description="This shows what some of the fossil organisms found at Nilpena might have looked like in life. Most of them lived on the sandy seafloor, but some may have floated in the water like jellyfish. These organisms called Ediacarans (ee-dee-ac-ar-ans) are found in the rocks today that are from 635-541 million years old.  "/>
+      <hotspot url="" id="Point12" title="" target="_blank" pan="-110.21" tilt="-18.82" skinid="hsPOIt" description="Studies of the rocks at Nilpena and at other sites, show that the seafloor during the Ediacaran Period was covered with microbial mats – a slimy coating formed by the growth of bacterial and other microorganisms. Mirobial mats are good food sources for other organisms and today they can only be found in environments where other organisms can’t survive (hot springs, salty bays). "/>
+      <hotspot url="" id="Point13" title="" target="_blank" pan="157.45" tilt="-6.98" skinid="hsPOIt" description="What happened to the Ediacarans organisms?  At the end of the Ediacaran Period, 541 million years ago, new more advanced organisms evolved in the oceans. These new organisms had more advance bodies that allowed them to move faster, prey on other organisms and use shells to protect themselves. The soft-bodied simple Ediacarans were no match and died out along with the once common microbial mats. "/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" type="crossdissolve" zoomout="0" enabled="0" softedge="0" blendtime="1" zoomoutpause="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" contextfullscreen="1" sensitivity="8" simulatemass="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input leveltileurl="tiles/Nilpena3v46x3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelingpitch="0" width="1500" height="1500" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="269.5" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="2015:12:09 11:15:20" comment="" customnodeid="" copyright="" title="" tags="nilpena" info="" description="" author="" latitude="" longitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" background="1" enabled="1" borderalpha="1" border="1" width="180" height="20" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node1}" id="Point01" title="" target="-47.01/-4.25/67.6" pan="-153.57" tilt="0.62" skinid="ht_node_MainBed" description=""/>
+      <hotspot url="" id="Point02" title="" target="_blank" pan="111.96" tilt="-10.73" skinid="hsPOIt" description="The sandstone at here at Nilpena was originally deposited in layers. This can be seen today in how the sandstone beds are stacked one on top of another. Notice how some layers are thicker than others. "/>
+      <hotspot url="" id="Point03" title="" target="_blank" pan="112.44" tilt="27.8" skinid="htScientist" description="Dr. Roger Summons&lt;br>&#xa;Geobiologist&lt;br>&#xa;The rocks are in his &lt;br>&#xa;&quot;DNA&quot;."/>
+      <hotspot url="" id="Point04" title="" target="_blank" pan="69.1" tilt="19.43" skinid="htScientist" description="Dr. Wendy Taylor&lt;br>&#xa;Paleontologist &lt;br>&#xa;She &quot;digs&quot; being outside."/>
+      <hotspot url="" id="Point05" title="" target="_blank" pan="176.84" tilt="9.98" skinid="htScientist" description="Dr. Ariel Anbar&lt;br>&#xa;Geochemist&lt;br>&#xa;When it comes to science, &lt;br>&#xa;he's in his &quot;element&quot;."/>
+      <hotspot url="" id="point85" title="media/parvImage.jpg" target="_blank" pan="-51.4" tilt="-39.79" skinid="hsPOIp_image" description="&lt;b>&lt;i>Parvancorina &lt;/i>fossil&lt;/b>&lt;br>&#xa;It is an example of the fossils that are found in the rocks here and is one of the earliest complex animals to appear on Earth. It is over 550 million years old."/>
+      <hotspot url="" id="Point06" title="media/eoand.jpg" target="_blank" pan="9.3" tilt="-33.08" skinid="hsPOIp_image" description="&lt;b>&lt;i>Eoandromeda &lt;/i>fossil&lt;/b>&lt;br>&#xa;A few dozen fossil specimens are known, ranging from about 1 to 4 cm in diameter; they are circular in outline and their eight arms, with closed ends, spiral either clockwise or counterclockwise."/>
+      <hotspot url="" id="Point07" title="" target="_blank" pan="13.02" tilt="-9.5" skinid="hsPOIt" description="This fossil bed was excavated and pieced back together by scientists. To study the fossils on the surface, the bed had to be dug out and put back together like a giant puzzle. This allows scientists to study the fossils on the surface in much greater detail. "/>
+      <hotspot url="media/ParvBed.mp4" id="Point08" title="DISCOVER" target="" pan="-102.09" tilt="-20.68" skinid="ht_video_file" description=""/>
+      <hotspot url="{node5}" id="Point09" title="" target="0/0/70" pan="42.45" tilt="-8.54" skinid="ht_node_Underwater" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" type="crossdissolve" zoomout="0" enabled="0" softedge="0" blendtime="1" zoomoutpause="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" contextfullscreen="1" sensitivity="8" simulatemass="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input leveltileurl="tiles/Nilpena1v46x3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" leveltilesize="510" levelingroll="0" levelbias="0.400" levelingpitch="0" width="1500" height="1500" levelbiashidpi="0.400">
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" fov="70" pan="0" tilt="0"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="120" pan="360" fovstereographic="270" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata source="" datetime="2014:05:19 12:50:15" comment="" customnodeid="" copyright="" title="" tags="nilpena" info="" description="" author="" latitude="" longitude=""/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" background="1" enabled="1" borderalpha="1" border="1" width="180" height="20" borderradius="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627" borderalpha="1" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" zoomin="0" blendcolor="0x000000" type="crossdissolve" zoomout="0" enabled="0" softedge="0" blendtime="1" zoomoutpause="1" zoomspeed="2"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0"/>
+    <control hideabout="1" lockedmouse="0" invertwheel="0" invertcontrol="1" contextprojections="0" lockedkeyboardzoom="0" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" speedwheel="1" contextfullscreen="1" sensitivity="8" simulatemass="1"/>
+  </panorama>
+</tour>
