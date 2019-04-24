@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="15706" appversion="5.1 beta2">
+  <panorama hideabout="1" id="node1">
+    <input leveltilesize="510" leveltileurl="tiles/NilpenaStart/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500" levelingroll="0" levelbias="0.400" levelbiashidpi="0.400" levelingpitch="0" height="1500">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-28.18" fovmode="0">
+      <start pan="-42.56" fov="70" projection="4" tilt="-1.83"/>
+      <flyin pan="0" fov="170" projection="4" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="" customnodeid="" tags="" latitude="" datetime="2015:12:03 15:16:05" info="" author="" description="" source="" title="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" background="1" width="180" textcolor="0x000000" border="1" height="20" borderalpha="1" backgroundalpha="1" wordwrap="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627"/>
+      <hotspot pan="-41.66" id="Point01" target="-44.8139/-3.0993/70" url="{node6}" skinid="ht_node" tilt="18.99" description="" title=""/>
+      <hotspot pan="-41.31" id="Point03" target="" url="" skinid="hsDirections" tilt="-4.07" description="" title=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomfov="20" type="crossdissolve" blendtime="1" zoomout="0" zoomoutpause="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" hideabout="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" invertcontrol="1" rubberband="0" lockedwheel="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input leveltilesize="510" leveltileurl="tiles/NilpenaStart_1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500" levelingroll="0" levelbias="0.400" levelbiashidpi="0.400" levelingpitch="0" height="1500">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="" customnodeid="" tags="startintroaudio" latitude="" datetime="7/1/10 1:59 PM" info="" author="" description="" source="" title="Nilpena audio intro" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" background="1" width="180" textcolor="0x000000" border="1" height="20" borderalpha="1" backgroundalpha="1" wordwrap="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627"/>
+      <hotspot pan="115.33" id="Point01" target="" url="{node5}" skinid="ht_node_Underwater" tilt="-31.98" description="" title=""/>
+      <hotspot pan="-45.1" id="Point11" target="_blank" url="" skinid="hslinewave" tilt="0.57" description="" title=""/>
+      <hotspot pan="-46.49" id="Point07" target="_blank" url="" skinid="hsWavyRippleText" tilt="-2.93" description="" title=""/>
+      <hotspot pan="-12.6" id="Point08" target="_blank" url="" skinid="hsWavyRippleText" tilt="-21.4" description="" title=""/>
+      <hotspot pan="-74.22" id="Point09" target="_blank" url="" skinid="hsWavyRippleText" tilt="-19.13" description="" title=""/>
+      <hotspot pan="-72.46" id="Point05" target="_blank" url="" skinid="hslinewave" tilt="-15.88" description="" title=""/>
+      <hotspot pan="-11.28" id="Point06" target="_blank" url="" skinid="hslinewave" tilt="-18.08" description="" title=""/>
+      <hotspot pan="87.51" id="Point02" target="_blank" url="" skinid="htScientist" tilt="-4.56" description="Dr. Roger Summons&lt;br>&#xa;Really cool scientist guy&lt;br>&#xa;from MIT" title=""/>
+      <hotspot pan="-41" id="Point03" target="_blank" url="" skinid="hsTitle" tilt="21.48" description="" title=""/>
+      <hotspot pan="99.69" id="Point04" target="" url="{node2}" skinid="ht_node_Parv" tilt="-1.25" description="" title=""/>
+      <hotspot pan="-32.9" id="Point10" target="_blank" url="" skinid="hsshowfossilwCircle" tilt="-37.26" description="" title=""/>
+      <hotspot pan="-31.32" id="Point12" target="_blank" url="" skinid="hsshowfossilwCircle" tilt="-51.88" description="" title=""/>
+      <hotspot pan="-23.79" id="Point13" target="_blank" url="" skinid="hsshowfossilwCircle" tilt="-60.97" description="" title=""/>
+      <hotspot pan="12.01" id="Point14" target="_blank" url="" skinid="hsshowfossilwCircle" tilt="-61.22" description="" title=""/>
+      <hotspot pan="28.11" id="Point15" target="_blank" url="" skinid="hsshowfossilwCircle" tilt="-56.43" description="" title=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomfov="20" type="crossdissolve" blendtime="1" zoomout="0" zoomoutpause="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" hideabout="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" invertcontrol="1" rubberband="0" lockedwheel="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input leveltilesize="510" leveltileurl="tiles/AnieditedV2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="998" levelingroll="0" levelbias="0.400" levelbiashidpi="0.400" levelingpitch="0" height="998">
+      <level width="998" height="998" predecode="0" preload="0"/>
+      <level width="499" height="499" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="" customnodeid="" tags="underwateraudio" latitude="" datetime="2016:01:08 16:13:03" info="" author="" description="" source="" title="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" background="1" width="180" textcolor="0x000000" border="1" height="20" borderalpha="1" backgroundalpha="1" wordwrap="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627"/>
+      <hotspot pan="25.67" id="Point01" target="_blank" url="" skinid="hsfossil" tilt="-38.75" description="" title="Dickinsonia"/>
+      <hotspot pan="-11.5" id="Point02" target="_blank" url="" skinid="hsfossil" tilt="-52.96" description="" title="Parvancorina"/>
+      <hotspot pan="-97.63" id="Point03" target="_blank" url="" skinid="hsfossil" tilt="9.02" description="" title="Medusoid (jellyfish)"/>
+      <hotspot pan="71.91" id="Point04" target="_blank" url="" skinid="hsfossil" tilt="-28.25" description="" title="Eoandromeda"/>
+      <hotspot pan="-70.05" id="Point05" target="_blank" url="" skinid="hsfossil" tilt="-37.13" description="" title="Tribrachidium"/>
+      <hotspot pan="-14.82" id="Point06" target="_blank" url="" skinid="hsfossil" tilt="-12.2" description="" title="Charniodiscus Frond "/>
+      <hotspot pan="174.27" id="Point07" target="_blank" url="" skinid="hsfossil" tilt="-12.74" description="" title="Sandy sea floor"/>
+      <hotspot pan="-143.27" id="Point08" target="_blank" url="" skinid="hsfossil" tilt="-24.45" description="" title="Microbial mats"/>
+      <hotspot pan="-115.67" id="Point10" target="" url="{node6}" skinid="ht_node_start" tilt="26.07" description="" title=""/>
+      <hotspot pan="145.46" id="Point09" target="_blank" url="" skinid="hsfossil" tilt="-24.4" description="" title="Dickinsonia"/>
+      <hotspot pan="114.38" id="Point11" target="_blank" url="" skinid="hsfossil" tilt="-32.72" description="" title="Microbial mats"/>
+      <hotspot pan="148.23" id="Point12" target="_blank" url="" skinid="hsfossil" tilt="-7.36" description="" title="Charniodiscus Frond "/>
+      <hotspot pan="46.5" id="Point13" target="_blank" url="" skinid="hsfossil" tilt="-2.2" description="" title="Medusoid (jellyfish)"/>
+      <hotspot pan="64.07" id="Point14" target="_blank" url="" skinid="hsfossil" tilt="-51.98" description="" title="Spriggina"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomfov="20" type="crossdissolve" blendtime="1" zoomout="0" zoomoutpause="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" hideabout="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" invertcontrol="1" rubberband="0" lockedwheel="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input leveltilesize="510" leveltileurl="tiles/Nilpena3v46x3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500" levelingroll="0" levelbias="0.400" levelbiashidpi="0.400" levelingpitch="0" height="1500">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="" customnodeid="" tags="" latitude="" datetime="2015:12:09 11:15:20" info="" author="" description="" source="" title="ParvBed" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" background="1" width="180" textcolor="0x000000" border="1" height="20" borderalpha="1" backgroundalpha="1" wordwrap="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627"/>
+      <hotspot pan="-152.28" id="Point01" target="" url="{node6}" skinid="ht_node_fromParvToStart" tilt="2.28" description="" title=""/>
+      <hotspot pan="70.36" id="Point02" target="_blank" url="" skinid="htScientist" tilt="20.26" description="Dr. Wendy Taylor&lt;br>&#xa;Paleontologist &lt;br>&#xa;She &quot;digs&quot; being outside." title=""/>
+      <hotspot pan="112.03" id="Point03" target="_blank" url="" skinid="htScientist" tilt="29.76" description="Dr. Roger Summons&lt;br>&#xa;Geobiologist&lt;br>&#xa;The rocks are in his &lt;br>&#xa;&quot;DNA&quot;." title=""/>
+      <hotspot pan="176.27" id="Point04" target="_blank" url="" skinid="htScientist" tilt="9.27" description="Dr. Ariel Anbar&lt;br>&#xa;Geochemist&lt;br>&#xa;When it comes to science, &lt;br>&#xa;he's in his &quot;element&quot;." title=""/>
+      <hotspot pan="-105.08" id="Point05" target="_blank" url="" skinid="hsPOIParv" tilt="-34.52" description="" title=""/>
+      <hotspot pan="6.86" id="Point06" target="_blank" url="" skinid="hsPOIEoa" tilt="-24.92" description="" title=""/>
+      <hotspot pan="-104.71" id="Point07" target="" url="{node7}" skinid="ht_endCardboard" tilt="1.86" description="" title=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomfov="20" type="crossdissolve" blendtime="1" zoomout="0" zoomoutpause="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" hideabout="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" invertcontrol="1" rubberband="0" lockedwheel="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node7">
+    <input leveltilesize="510" leveltileurl="tiles/NilpenaStart_2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1500" levelingroll="0" levelbias="0.400" levelbiashidpi="0.400" levelingpitch="0" height="1500">
+      <level width="1500" height="1500" predecode="0" preload="0"/>
+      <level width="750" height="750" predecode="0" preload="0"/>
+      <level width="375" height="375" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fovstereographic="270" fovfisheye="360" fov="120" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata copyright="" comment="" customnodeid="" tags="nilpena" latitude="" datetime="7/1/10 1:59 PM" info="" author="" description="" source="" title="NilpenaEnd" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" bordercolor="0x000000" textalpha="1" backgroundcolor="0xffffff" background="1" width="180" textcolor="0x000000" border="1" height="20" borderalpha="1" backgroundalpha="1" wordwrap="1" enabled="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" borderalpha="1" backgroundalpha="0.2509803921568627"/>
+      <hotspot pan="-43.28" id="Point01" target="" url="" skinid="EndDirections" tilt="-6.92" description="" title=""/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" softedge="0" zoomin="0" zoomfov="20" type="crossdissolve" blendtime="1" zoomout="0" zoomoutpause="1" enabled="1" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control simulatemass="1" hideabout="1" lockedmouse="0" lockedkeyboard="0" invertwheel="0" invertcontrol="1" rubberband="0" lockedwheel="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" contextfullscreen="0"/>
+  </panorama>
+</tour>
