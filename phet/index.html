@@ -1,45 +1,49 @@
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    
     <style type="text/css">
-      .item-list{
-        text-align: center;
-        padding: 10px 20px;
-        margin-right: 10px;
-        width: 130px;
-        vertical-align: top;
-        font-size: 12px;
-        font-weight: bold;
-        font-family: "Helvetica Neue","Helvetica","Arial",sans-serif;
-        position: relative;
-      }
-      .simulation-items{
-        text-align: center;
-        font-size: 12px;
-        font-weight: bold;
-        font-family: "Helvetica Neue","Helvetica","Arial",sans-serif;
-      }
       .center-div{
         margin: 0 auto;
         max-width: 700px;
         background-color: #F5F5F5;
         border-radius: 3px;
       }
-      .inner-div{
-        margin: 0 auto;
-        max-width: 700px; 
+      .container{
+        overflow: hidden;
+        background-color: #140EB9;
       }
-
-
+      .container div{
+         padding: 10px;
+      }
+      #one{
+        float: left;
+        margin-right: 20px;
+      }
+      #two{ 
+        float: right;
+        margin: 10px;
+      }
+      @media screen and (max-width: 100px) {
+         #one { 
+          float: none;
+          margin-right: 0;
+        }
+      }
     </style>
   </head>
 
   <body>
     <div class="center-div">
-      <div>
-        <span style="width:453px;">
-          <h1>HTML5 Sims</h1>
-        </span>
+      <div class="container">
+        <div id="one">
+          <img src="images/phet-logo-trademarked.svg" alt="PhET Home Page" style="border: none;" width="156" height="74" id="phet-logo-main-image"/>
+        </div>
+        <div id="two">
+          <img src="images/cu-logo-grayscale.svg" alt="University of Colorado" width="195" height="40" style="border: none;"/>
+        </div>
       </div>
 
       <div>
@@ -83,6 +87,7 @@
               <a href="#W"><span>W</span></a>
           </span>
       </div>
+
       <div>
         <div id="A">
             <h2>A</h2>
@@ -109,6 +114,8 @@
                 <a href="en/simulations/balancing-act_en.html"><span>Balancing Act</span></a><br/>
             </span><span>
                 <a href="en/simulations/balancing-chemical-equations_en.html"><span>Balancing Chemical Equations</span></a><br/>
+            </span><span>
+                <a href="en/simulations/build-an-atom_en.html"><span>Build An Atom</span></a><br/>
             </span>
         </div><div id="C">
             <h2>C</h2>
